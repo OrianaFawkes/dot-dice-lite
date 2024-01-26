@@ -32,3 +32,6 @@ Dot Dice lite is a simple dice-rolling app, designed with a charming retro 8-bit
 
 ![figure3](/assets/readme/roll-history_with-content.jpg)
 *Figure 3. Roll History with dice rolls made*
+
+## License
+Dot Dice lite is released under the [MIT License](/LICENSE).
